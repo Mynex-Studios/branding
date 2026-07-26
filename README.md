@@ -6,9 +6,9 @@ If you have any questions or suggestions, feel free to join our [Discord](https:
 ## Viewing assets directly in your browser
 Files from this repo can be opened directly in your browser, e.g.:
 
-https://raw.githubusercontent.com/Mynex-Studios/branding/main/folder/filename.png
+> https://raw.githubusercontent.com/Mynex-Studios/branding/main/folder/filename.png
 
-Replace `folder/filename.png` with the actual path to the file you want.
+> Replace `folder/filename.png` with the actual path to the file you want.
 
 ## License
 See [LICENSE](LICENSE)
