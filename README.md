@@ -8,7 +8,4 @@ Files from this repo can be opened directly in your browser, e.g.:
 
 > https://raw.githubusercontent.com/Mynex-Studios/branding/main/folder/filename.png
 
-> Replace `folder/filename.png` with the actual path to the file you want.
-
-## License
-See [LICENSE](LICENSE)
+Replace `folder/filename.png` with the actual path to the file you want.
